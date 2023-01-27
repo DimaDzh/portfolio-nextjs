@@ -13,11 +13,10 @@ const Main: FC = () => {
         <section>
           <header>
             <p className="uppercase text-sm tracking-widest text-gray-600">
-              LET&#39;S BUILD SOMETHING TOGETHER
+              LET`S BUILD SOMETHING TOGETHER
             </p>
             <h1 className="py-4 text-gray-700">
-              Hello There, I&#39;m{" "}
-              <span className="text-[#69697a]">Dmytro</span>
+              Hello There, I am <span className="text-[#69697a]">Dmytro</span>
             </h1>
           </header>
           <main>
